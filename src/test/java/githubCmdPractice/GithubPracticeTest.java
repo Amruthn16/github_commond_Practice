@@ -8,6 +8,7 @@ public class GithubPracticeTest {
 	public void test() {
 		
 		System.out.println("GitHub");
+		System.out.println();
 
 	}
 
