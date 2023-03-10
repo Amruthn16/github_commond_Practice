@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="38" started-at="2023-03-10T15:35:58 IST" finished-at="2023-03-10T15:35:58 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="38" started-at="2023-03-10T15:35:58 IST" finished-at="2023-03-10T15:35:58 IST">
+      <class name="githubCmdPractice.JenkinsPracticeTest">
+        <test-method status="PASS" signature="name()[pri:0, instance:githubCmdPractice.JenkinsPracticeTest@711f39f9]" name="name" duration-ms="0" started-at="2023-03-10T15:35:58 IST" finished-at="2023-03-10T15:35:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- name -->
+      </class> <!-- githubCmdPractice.JenkinsPracticeTest -->
+      <class name="githubCmdPractice.GithubPracticeTest">
+        <test-method status="PASS" signature="test()[pri:0, instance:githubCmdPractice.GithubPracticeTest@7d0587f1]" name="test" duration-ms="4" started-at="2023-03-10T15:35:58 IST" finished-at="2023-03-10T15:35:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- githubCmdPractice.GithubPracticeTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
