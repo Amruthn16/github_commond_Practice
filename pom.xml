@@ -96,7 +96,7 @@
 						<version>3.0.0-M9</version>
 						<configuration>
 							<suiteXmlFiles>
-								<suiteXmlFile>testng.xml</suiteXmlFile>
+								<suiteXmlFile>testngjenkins.xml</suiteXmlFile>
 							</suiteXmlFiles>
 						</configuration>
 					</plugin>

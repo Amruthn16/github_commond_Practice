@@ -11,8 +11,8 @@ public class JenkinsPracticeTest{
 	@Test
 	public void name() {
 		System.out.println("Jenkin_Test");
-		String url = System.getProperty("url");
-		String browser = System.getProperty("browser");
+		String url = System.getProperty("URL");
+		String browser = System.getProperty("BROWSER");
 		
 		WebDriverManager.chromedriver().setup();
 		 WebDriver driver = new ChromeDriver();
