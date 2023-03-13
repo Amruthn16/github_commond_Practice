@@ -6,8 +6,8 @@ public class GithubPracticeTest {
 
 	@Test
 	public void test() {
-		String url = System.getProperty("url");
-		String browser = System.getProperty("browser");
+		String url = System.getProperty("URL");
+		String browser = System.getProperty("BROWSER");
 		System.out.println("GitHub1");
 		System.out.println(url);
 		System.out.println(browser);
